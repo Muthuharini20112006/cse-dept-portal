@@ -20,7 +20,7 @@
 
 ## 📊 Student Progress Board (Live Stats)
 
-| S.No | Reg No | Name | GitHub | Tracker Repo | Leetcode | Live LeetCode Stats |
+| S.No | Reg No | Name | GitHub | Tracker Repo |Leetcode Live LeetCode Stats |
 |------|--------|------|--------|------|----------------------|
 | 1 | 710724104064 | KAMALESH S | [Profile](https://github.com/Kamalesh-S-coder) | [Repo](https://github.com/Kamalesh-S-coder/Leetcode-Kamalesh-S) | <a href="https://leetcode.com/u/Kamalesh_S_/"><img src="https://leetcard.jacoblin.cool/Kamalesh_S_?theme=dark&font=baloo2" width="260"/></a> |
 | 2 | 710724104065 | KAMALITHA K | — | — | — |
